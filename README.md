@@ -30,6 +30,7 @@
 | unfollow_break_min   | int | Minimum seconds to break between unfollows           | 15 |
 | unfollow_break_max   | int | Maximum seconds to break between unfollows           | 30 |
 | log_mod              | int | Logging target (0 log to console, 1 log to file, 2 no log.) | 0 |
+| log_file_path        | str | Output log file path                                 | |
 | proxy                | str | Access instagram through a proxy. (host:port or user:password@host:port) | |
 
 ## Methods
